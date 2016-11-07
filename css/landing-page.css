@@ -115,13 +115,13 @@ h6 {
 
 .banner {
     padding: 100px 0;
-    color: #f8f8f8;
+    
     background-color: #E6E6E6;
 }
 
 .banner h2 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    
     font-size: 3em;
 }
 
